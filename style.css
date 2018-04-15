@@ -1,0 +1,63 @@
+.topo{
+	padding: 0;
+	background-color: #283d49;
+	width: 100%;
+	height: 65px;
+}
+.imagem{
+	padding: 7px 15px 0 100px;
+	float: left;
+	width: 60px;
+	height: 60px;
+}
+.busca input{
+	float: left;
+	width: 200px;
+	height: 25px;
+	margin-top: 20px;
+}
+.topo a{
+	float: left;
+	text-decoration: none;
+	color: white;
+}
+img{
+	float: left;
+}
+.capa{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background-image: url("Imagens/top_img.png");
+}
+.capa img{
+	margin-top: 180px;
+	position: absolute;
+	left: 45%;
+	border: 5px solid white;
+	border-radius: 200px;
+	width: 200px;
+	height: 200px;
+}
+.exp img{
+	width: 80px;
+	height: 80px;
+	padding-right: 15px;
+}
+.info{
+	border: 1px solid gray;
+	padding-top: 400px;
+	text-align: center;
+}
+.hist{
+	border: 1px solid gray;
+	text-align: center;
+}
+.meio{
+	padding-left: 200px;
+	padding-right: 200px;	
+}
+.exp1{
+	border: 1px solid gray;
+}
+
