@@ -1,2 +1,2 @@
-# http://luanguedes.github.io
+luanguedes.github.io
 Trabalho sobre o Likedin
